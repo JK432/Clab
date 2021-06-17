@@ -1,0 +1,12 @@
+
+// WRITE A C PROGRAME TO PRINT NAME AND ADDRESS
+
+#include<stdio.h>
+int main(){
+
+    printf("JAYAKRISHNAN S");
+    printf("\nSREEPADMAM \nCHAYAM VITHURA PO \nNEDUMANGAD THIRUVANANTHAPURAM \n695551 \n");
+
+
+return 0;
+}
